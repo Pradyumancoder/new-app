@@ -1,0 +1,33 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid lightsalmon;
+    align-items: center;
+}
+
+input{
+    border-radius: 10px;
+    width: 60%;
+    height: 40px;
+    cursor: pointer;
+}
+#results>div{
+    display: flex;
+    gap: 2%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+img{
+    width: 200px;
+}
+#main{
+    display: flex;
+    gap: 10%;
+    
+}
+#sidebar{
+    border: 1px solid lightslategray;
+    height: 240px;
+    width: 180;
+    cursor: pointer;
+}
